@@ -12,3 +12,4 @@ A lista de usuários e senhas passadas foram bastante simples, servem para teste
 
 A maior lição do curso acabou sendo que usuários são o maior fator de risco, parece simples, mas sempre é bom lembrar.
 
+Outro arquivo criado nesse repositório foi usado apenas para links, tanto para lembrar mais fácil das ferramntas, como para ter acesso a documentação das mesmas, apesar de distribuições linux possuirem o comando help, as vezes é bom buscar mais detalhes, explicações ou mesmo sugestões para melhor realizar tarefas desejadas.
